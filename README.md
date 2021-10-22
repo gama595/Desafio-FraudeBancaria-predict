@@ -1,7 +1,7 @@
 # Desafio-Fraude_predict
 
 
-## Desafio ❓
+## Desafio ✔️
 
 <p>
 Há uma falta de conjuntos de dados disponíveis ao público sobre serviços financeiros e, especialmente, no domínio emergente de transações de dinheiro móvel. Conjuntos de dados financeiros são importantes para muitos pesquisadores e, em particular, para nós que realizamos pesquisas no domínio da detecção de fraudes. Parte do problema é a natureza intrinsecamente privada das transações financeiras, que não leva a conjuntos de dados disponíveis publicamente.
